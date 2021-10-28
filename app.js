@@ -7,14 +7,16 @@ const connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
   user: "root",
-  password: "abc123",
+  password: "JPablo#21",
   database: "employeesDB",
 });
+
 connection.connect((err) => {
   if (err) throw err;
   console.log("connected");
   start();
 });
+
 // prompst user what they would like to do
 function start() {
   inquirer
