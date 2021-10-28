@@ -1,35 +1,42 @@
-# Employee_Traker
+# Employee Traker
 
 ## Table of Contents
-* [Demo_Video] (#demo_video)
-* [Description](#description)
-* [Usage Instructions](#usage)
-* [Installation](#installation)
-* [Testing](#testing) 
-* [Questions](#questions)
-    
+
+- [Demo Video](#demo_video)
+- [Description](#description)
+- [Usage Instructions](#usage)
+- [Installation](#installation)
+- [Testing](#testing)
+- [Questions](#questions)
+
 ## Demo Video: https://watch.screencastify.com/v/0Pph1pnuPhdDODwO4ml8
 
 ## Description
-renders in the terminal a list of Departments, roles and employees.  The user can view, add and/or edit the list.
+
+renders in the terminal a list of Departments, roles and employees. The user can view, add and/or edit the list.
 
 ## Usage Instructions
+
 run node app.js and select from the list what you would like to do, view, edit, add.
 
-## Installation Instructions 
+## Installation Instructions
+
 In the terminal npm install console.table, inquirer, mysql2
 
-## Testing 
+## Testing
+
 run node app.js
 
 ## Contributing Members
+
 please contact me via email or github
 
 ## Questions
-    
+
 ### Email
+
 bernal1307@gmail.com
 
 ### GitHub Profile
+
 [GitHub Profile](https://github.com/JPablo73)
-    
