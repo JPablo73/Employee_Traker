@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Demo Video](#demo_video)
+- [Demo Video](#demo)
 - [Description](#description)
 - [Usage Instructions](#usage)
 - [Installation](#installation)
@@ -27,11 +27,9 @@ In the terminal npm install console.table, inquirer, mysql2
 
 run node app.js
 
-## Contributing Members
+## Questions
 
 please contact me via email or github
-
-## Questions
 
 ### Email
 
